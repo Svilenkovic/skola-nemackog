@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="sr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Server greška - Škola Nemačkog Jezika</title>
+    <meta name="description" content="Došlo je do greške na serveru. Molimo pokušajte ponovo kasnije.">
+    <meta name="robots" content="noindex, nofollow">
+    <link rel="canonical" href="https://skolanemackog.online/">
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .error-page {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            padding: 2rem;
+        }
+        .error-content {
+            max-width: 600px;
+        }
+        .error-code {
+            font-size: 8rem;
+            font-weight: 800;
+            color: #dc3545;
+            margin: 0;
+            line-height: 1;
+        }
+        .error-message {
+            font-size: 1.5rem;
+            margin: 1rem 0 2rem;
+            color: #666;
+        }
+        .error-actions {
+            margin-top: 2rem;
+        }
+        .btn {
+            display: inline-block;
+            padding: 12px 24px;
+            margin: 0 10px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: 500;
+            transition: all 0.3s ease;
+        }
+        .btn-primary {
+            background-color: #007bff;
+            color: white;
+        }
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+        .btn-secondary {
+            background-color: #6c757d;
+            color: white;
+        }
+        .btn-secondary:hover {
+            background-color: #545b62;
+        }
+    </style>
+</head>
+<body>
+    <div class="error-page">
+        <div class="error-content">
+            <h1 class="error-code">500</h1>
+            <h2>Server greška</h2>
+            <p class="error-message">
+                Došlo je do greške na serveru. Molimo pokušajte ponovo kasnije. 
+                Ako se problem nastavi, kontaktirajte nas.
+            </p>
+            <div class="error-actions">
+                <a href="/" class="btn btn-primary">
+                    <i class="fas fa-home"></i> Početna stranica
+                </a>
+                <a href="/#kontakt" class="btn btn-secondary">
+                    <i class="fas fa-phone"></i> Kontakt
+                </a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

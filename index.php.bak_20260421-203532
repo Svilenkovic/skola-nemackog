@@ -1,0 +1,738 @@
+<!DOCTYPE html>
+<html lang="sr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Škola Nemačkog Jezika | Kursevi A1-C1 | Besplatna Konsultacija | Beograd</title>
+    <meta name="description" content="Profesionalni online kursevi nemačkog jezika A1-C1. Besplatna online konsultacija, individualni pristup, iskusni predavači. Cene od 22.000 RSD. Zakazite svoj kurs danas!">
+    <meta name="keywords" content="škola nemačkog beograd, kursevi nemačkog beograd, nemački jezik beograd, A1 A2 B1 B2 C1, online konsultacija nemačkog, individualni pristup, cena kurseva nemačkog, iskusni predavači nemačkog">
+    <meta name="author" content="Škola Nemačkog Jezika - Beograd">
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+    <meta name="googlebot" content="index, follow">
+    <meta name="bingbot" content="index, follow">
+    <link rel="canonical" href="https://skolanemackog.online/">
+    <meta name="geo.region" content="RS">
+    <meta name="geo.placename" content="Beograd">
+    <meta name="geo.position" content="44.786568;20.448922">
+    <meta name="ICBM" content="44.786568, 20.448922">
+    <meta name="DC.title" content="Škola Nemačkog Jezika Beograd">
+    <meta name="DC.description" content="Profesionalni kursevi nemačkog jezika A1-C1 u Beogradu">
+    <meta name="DC.subject" content="nemački jezik, kursevi, beograd">
+    <meta name="DC.creator" content="Škola Nemačkog Jezika">
+    <meta name="DC.publisher" content="Škola Nemačkog Jezika">
+    <meta name="DC.coverage" content="Beograd, Srbija">
+    <meta name="DC.language" content="sr">
+    <meta name="DC.type" content="text">
+    <meta name="DC.format" content="text/html">
+    <meta name="DC.identifier" content="https://skolanemackog.online/">
+    <meta name="DC.date" content="2025-01-15">
+    <meta name="DC.rights" content="Škola Nemačkog Jezika">
+    <meta name="DC.source" content="Škola Nemačkog Jezika">
+    <meta name="DC.relation" content="https://skolanemackog.online/">
+    <meta name="DC.audience" content="studenti, odrasli, deca">
+    <meta name="DC.mediator" content="predavači">
+    <meta name="DC.medium" content="online, offline">
+    <meta name="DC.extent" content="A1-C1">
+    
+
+    <meta name="language" content="sr">
+    <meta name="distribution" content="global">
+    <meta name="rating" content="general">
+    <meta name="revisit-after" content="7 days">
+    <meta name="google-site-verification" content="your-google-verification-code">
+    <meta name="msvalidate.01" content="your-bing-verification-code">
+    <meta name="yandex-verification" content="your-yandex-verification-code">
+    
+
+    <meta name="format-detection" content="telephone=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Škola Nemačkog">
+    
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="theme-color" content="#007bff">
+    <meta name="msapplication-TileColor" content="#007bff">
+    <meta name="msapplication-config" content="/browserconfig.xml">
+    
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://skolanemackog.online/">
+    <meta property="og:title" content="Škola Nemačkog Jezika | Kursevi A1-C1 | Beograd">
+    <meta property="og:description" content="Profesionalni online kursevi nemačkog jezika A1-C1. Besplatna online konsultacija, individualni pristup, iskusni predavači. Cene od 22.000 RSD.">
+    <meta property="og:image" content="https://skolanemackog.online/images/default-og.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="Škola Nemačkog Jezika Beograd - Profesionalni kursevi">
+    <meta property="og:site_name" content="Škola Nemačkog Jezika">
+    <meta property="og:locale" content="sr_RS">
+    <meta property="og:locale:alternate" content="en_US">
+    <meta property="og:locale:alternate" content="de_DE">
+    <meta property="article:author" content="Škola Nemačkog Jezika">
+    <meta property="article:publisher" content="https://www.facebook.com/skolanemackog">
+    <meta property="article:section" content="Obrazovanje">
+    <meta property="article:tag" content="nemački jezik, kursevi, beograd, A1, A2, B1, B2, C1">
+    
+
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://skolanemackog.online/">
+    <meta property="twitter:title" content="Škola Nemačkog Jezika | Kursevi A1-C1 | Beograd">
+    <meta property="twitter:description" content="Profesionalni online kursevi nemačkog jezika A1-C1. Besplatna online konsultacija, individualni pristup, iskusni predavači. Cene od 22.000 RSD.">
+    <meta property="twitter:image" content="https://skolanemackog.online/images/default-og.jpg">
+    <meta property="twitter:image:alt" content="Škola Nemačkog Jezika Beograd - Profesionalni kursevi">
+    <meta property="twitter:site" content="@skolanemackog">
+    <meta property="twitter:creator" content="@skolanemackog">
+    <meta property="twitter:app:name:iphone" content="Škola Nemačkog Jezika">
+    <meta property="twitter:app:name:ipad" content="Škola Nemačkog Jezika">
+    <meta property="twitter:app:name:googleplay" content="Škola Nemačkog Jezika">
+    
+
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    
+
+    <link rel="preload" href="style.css" as="style">
+    <link rel="preload" href="script.js" as="script">
+    <link rel="preload" href="images/german-class.jpg" as="image">
+    
+
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+    <link rel="dns-prefetch" href="//www.google-analytics.com">
+    
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+
+    <link rel="stylesheet" href="style.css">
+    
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "LanguageSchool",
+        "name": "Škola Nemačkog Jezika",
+        "alternateName": "Škola Nemačkog Jezika Beograd",
+        "description": "Profesionalni online kursevi nemačkog jezika A1-C1. Besplatna online konsultacija, individualni pristup, iskusni predavači.",
+        "url": "https://skolanemackog.online",
+        "telephone": "+381613144061",
+        "email": "info@skolanemackog.online",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RS",
+            "addressLocality": "Beograd",
+            "addressRegion": "Beograd",
+            "postalCode": "11000"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 44.786568,
+            "longitude": 20.448922
+        },
+        "openingHours": "Mo-Fr 09:00-21:00",
+        "priceRange": "22000-32000 RSD",
+        "currenciesAccepted": "RSD",
+        "paymentAccepted": "Cash, Credit Card, Bank Transfer",
+        "sameAs": [
+            "https://www.linkedin.com/company/skola-nemackog",
+            "https://www.instagram.com/skolanemackog",
+            "https://www.facebook.com/skolanemackog"
+        ],
+        "offers": [
+            {
+                "@type": "Offer",
+                "name": "Standardni kurs nemačkog jezika A1.1",
+                "description": "40 nastavnih jedinica, 2x nedeljno, do 6 polaznika",
+                "price": "32000",
+                "priceCurrency": "RSD",
+                "availability": "https://schema.org/InStock",
+                "validFrom": "2025-01-15"
+            },
+            {
+                "@type": "Offer",
+                "name": "Konverzacijski kurs nemačkog",
+                "description": "10x75 minuta, fokus na konverzaciju",
+                "price": "22000",
+                "priceCurrency": "RSD",
+                "availability": "https://schema.org/InStock",
+                "validFrom": "2025-01-15"
+            }
+        ],
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.8",
+            "reviewCount": "127",
+            "bestRating": "5",
+            "worstRating": "1"
+        },
+        "review": [
+            {
+                "@type": "Review",
+                "author": {
+                    "@type": "Person",
+                    "name": "Marija Petrović"
+                },
+                "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": "5",
+                    "bestRating": "5"
+                },
+                "reviewBody": "Odličan kurs, predavači su veoma iskusni i strpljivi. Preporučujem svima!"
+            }
+        ],
+        "hasOfferCatalog": {
+            "@type": "OfferCatalog",
+            "name": "Kursevi nemačkog jezika",
+            "itemListElement": [
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Course",
+                        "name": "A1 - Početnik",
+                        "description": "Elementarna upotreba jezika"
+                    }
+                },
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Course",
+                        "name": "A2 - Osnovni",
+                        "description": "Elementarna upotreba jezika"
+                    }
+                },
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Course",
+                        "name": "B1 - Srednji",
+                        "description": "Samostalna upotreba jezika"
+                    }
+                },
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Course",
+                        "name": "B2 - Viši srednji",
+                        "description": "Samostalna upotreba jezika"
+                    }
+                },
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Course",
+                        "name": "C1 - Napredni",
+                        "description": "Kompetentna upotreba jezika"
+                    }
+                }
+            ]
+        }
+    }
+    </script>
+    
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "Koji nivoi nemačkog jezika predajete?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Predajemo sve nivoe nemačkog jezika od A1 (početnik) do C1 (napredni). Naši kursevi pokrivaju elementarnu, samostalnu i kompetentnu upotrebu jezika."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Da li su kursevi online ili offline?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Svi naši kursevi su online. Koristimo moderne platforme za nastavu koje omogućavaju interaktivnu komunikaciju sa predavačima i drugim polaznicima."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Koliko košta kurs nemačkog jezika?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Cene kurseva počinju od 22.000 RSD za konverzacijski kurs, dok standardni kurs košta 32.000 RSD. Individualni kursevi se cenjuju po dogovoru."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Da li nudite besplatnu konsultaciju?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Da, nudimo besplatnu online konsultaciju za procenu nivoa znanja i savetovanje o najboljem kursu za vaše potrebe."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Koliko traje kurs?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Standardni kurs traje 10 nedelja sa 2 časa nedeljno, dok konverzacijski kurs traje 10 sedmica sa jednim časom nedeljno. Individualni kursevi se prilagođavaju vašim potrebama."
+                }
+            }
+        ]
+    }
+    </script>
+</head>
+<body>
+
+    <header class="header" role="banner">
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+        <nav class="desktop-nav">
+            <div class="desktop-nav-brand">
+                <a href="/">
+                    <i class="fas fa-graduation-cap"></i>
+                    <span>Škola Nemačkog</span>
+                </a>
+            </div>
+            
+            <div class="desktop-nav-menu">
+                <ul class="desktop-nav-list">
+                    <li class="desktop-nav-item">
+                        <a href="#home" class="desktop-nav-link">Početna</a>
+                    </li>
+                    <li class="desktop-nav-item">
+                        <a href="#kursevi" class="desktop-nav-link">Kursevi</a>
+                    </li>
+                    <li class="desktop-nav-item">
+                        <a href="#nivoi" class="desktop-nav-link">Nivoi</a>
+                    </li>
+                    <li class="desktop-nav-item">
+                        <a href="#o-nama" class="desktop-nav-link">O nama</a>
+                    </li>
+                    <li class="desktop-nav-item">
+                        <a href="#kontakt" class="desktop-nav-link">Kontakt</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+        <div class="mobile-nav">
+            <div class="mobile-nav-header">
+                <a href="#home" class="mobile-nav-brand">
+                    <i class="fas fa-graduation-cap"></i>
+                    <span>Škola Nemačkog</span>
+                </a>
+                <button class="mobile-nav-toggle" id="mobileNavToggle" aria-label="Toggle navigation menu">
+                    <i class="fas fa-book-open"></i>
+                </button>
+            </div>
+            <div class="mobile-nav-menu" id="mobileNavMenu">
+                <ul class="mobile-nav-list">
+                    <li class="mobile-nav-item">
+                        <a href="#home" class="mobile-nav-link">Početna</a>
+                    </li>
+                    <li class="mobile-nav-item">
+                        <a href="#kursevi" class="mobile-nav-link">Kursevi</a>
+                    </li>
+                    <li class="mobile-nav-item">
+                        <a href="#nivoi" class="mobile-nav-link">Nivoi</a>
+                    </li>
+                    <li class="mobile-nav-item">
+                        <a href="#o-nama" class="mobile-nav-link">O nama</a>
+                    </li>
+                    <li class="mobile-nav-item">
+                        <a href="#kontakt" class="mobile-nav-link">Kontakt</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+    </header>
+
+    <section id="home" class="hero" role="main">
+      <div class="hero-bg-shapes"></div>
+      <div class="container hero-grid">
+        <div class="hero-left">
+          <div class="hero-badge-float wow-fadeInDown">
+            <i class="fas fa-crown"></i> #1 izbor za nemački
+          </div>
+          <h1 class="hero-title wow-fadeInUp">
+            <span class="hero-title-main">Nemački jezik</span>
+            <span class="hero-title-highlight">za ambiciozne</span>
+          </h1>
+          <p class="hero-subtitle wow-fadeInUp">
+            Postignite vrhunske rezultate uz iskusne predavače i individualni pristup. Online kursevi A1–C1 za decu i odrasle.
+          </p>
+          <div class="hero-cta-row wow-fadeInUp">
+            <a href="#kontakt" class="btn btn-primary btn-hero-lg">
+              <i class="fas fa-rocket"></i> Započnite sada
+            </a>
+            <a href="#kursevi" class="btn btn-secondary btn-hero-lg">
+              <i class="fas fa-book-open"></i> Pogledaj kurseve
+            </a>
+          </div>
+          <ul class="hero-benefits wow-fadeInUp">
+            <li><i class="fas fa-user-check"></i> Individualni pristup</li>
+            <li><i class="fas fa-chalkboard-teacher"></i> Iskusni predavači</li>
+            <li><i class="fas fa-laptop"></i> Samo online kursevi</li>
+            <li><i class="fas fa-clock"></i> Radno vreme 9-21h</li>
+          </ul>
+        </div>
+        <div class="hero-right">
+          <div class="hero-image-glass wow-floatIn">
+            <img src="images/german-class.jpg" alt="Nemački jezik - čas" loading="lazy">
+            <div class="hero-floating-card">
+              <div class="floating-icon"><i class="fas fa-users"></i></div>
+              <div class="floating-content">
+                <div class="floating-number">500+</div>
+                <div class="floating-label">Zadovoljnih polaznika</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="hero-scroll-indicator">
+        <a href="#kursevi" class="scroll-arrow">
+          <i class="fas fa-chevron-down"></i>
+        </a>
+      </div>
+    </section>
+
+    <section class="cta-section">
+        <div class="container">
+            <div class="cta-content">
+                <h2>Zainteresovani za kurseve?</h2>
+                <p>Kontaktirajte nas i saznajte više o našim programima</p>
+                <a href="#kontakt" class="btn btn-primary">
+                    <i class="fas fa-phone"></i>
+                    Kontaktirajte nas
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <section id="kursevi" class="courses">
+        <div class="container">
+            <div class="section-header">
+                <div class="section-badge">
+                    <i class="fas fa-book"></i>
+                    Naši kursevi
+                </div>
+                <h2>Kursevi nemačkog jezika</h2>
+                <p>Profesionalni pristup sa iskusnim predavačima</p>
+            </div>
+            
+            <div class="courses-grid" itemscope itemtype="https://schema.org/ItemList">
+                <div class="course-card" itemprop="itemListElement" itemscope itemtype="https://schema.org/Course">
+                    <div class="course-icon">
+                        <i class="fas fa-graduation-cap"></i>
+                    </div>
+                    <h3 itemprop="name">Standardni kurs nemačkog jezika</h3>
+                    <div class="course-level" itemprop="educationalLevel">A1.1</div>
+                    <ul class="course-features">
+                        <li><i class="fas fa-check"></i> 40 nastavnih jedinica</li>
+                        <li><i class="fas fa-check"></i> 45 minuta trajanje</li>
+                        <li><i class="fas fa-check"></i> 2x nedeljno</li>
+                        <li><i class="fas fa-check"></i> 90 minuta kroz 10 nedelja</li>
+                        <li><i class="fas fa-check"></i> Do 6 polaznika</li>
+                        <li><i class="fas fa-check"></i> Besplatno testiranje nivoa</li>
+                        <li><i class="fas fa-check"></i> Završni testovi</li>
+                        <li><i class="fas fa-check"></i> Online materijali</li>
+                    </ul>
+                    <div class="course-price" itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+                        <span itemprop="price" content="32000">32.000,00 RSD</span>
+                    </div>
+                    <a href="#kontakt" class="btn btn-primary">Prijavite se</a>
+                </div>
+                
+                <div class="course-card featured">
+                    <div class="course-badge">Popularno</div>
+                    <div class="course-icon">
+                        <i class="fas fa-comments"></i>
+                    </div>
+                    <h3>Konverzacijski kurs nemačkog</h3>
+                    <div class="course-level">Subotom</div>
+                    <ul class="course-features">
+                        <li><i class="fas fa-check"></i> 10x75 minuta</li>
+                        <li><i class="fas fa-check"></i> Do 6 polaznika</li>
+                        <li><i class="fas fa-check"></i> Fokus na konverzaciju</li>
+                        <li><i class="fas fa-check"></i> Praktični primeri</li>
+                        <li><i class="fas fa-check"></i> Svakodnevni jezik</li>
+                        <li><i class="fas fa-check"></i> Interaktivne aktivnosti</li>
+                    </ul>
+                    <div class="course-price">22.000,00 RSD</div>
+                    <a href="#kontakt" class="btn btn-primary">Prijavite se</a>
+                </div>
+                
+                <div class="course-card">
+                    <div class="course-icon">
+                        <i class="fas fa-user-graduate"></i>
+                    </div>
+                    <h3>Individualni kurs nemačkog</h3>
+                    <div class="course-level">Po dogovoru</div>
+                    <ul class="course-features">
+                        <li><i class="fas fa-check"></i> Individualni pristup</li>
+                        <li><i class="fas fa-check"></i> Fleksibilno vreme</li>
+                        <li><i class="fas fa-check"></i> Prilagođen program</li>
+                        <li><i class="fas fa-check"></i> Samo online</li>
+                        <li><i class="fas fa-check"></i> Brži napredak</li>
+                        <li><i class="fas fa-check"></i> Fokus na vaše potrebe</li>
+                        <li><i class="fas fa-check"></i> Besplatna procena nivoa</li>
+                        <li><i class="fas fa-check"></i> Radno vreme 9-21h</li>
+                    </ul>
+                    <div class="course-price">Po dogovoru</div>
+                    <a href="#kontakt" class="btn btn-primary">Prijavite se</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="nivoi" class="levels">
+        <div class="container">
+            <div class="section-header">
+                <div class="section-badge">
+                    <i class="fas fa-chart-line"></i>
+                    Nivoi jezika
+                </div>
+                <h2>Nivoi nemačkog jezika</h2>
+                <p>Od A1 do C1 - put ka tečnosti</p>
+            </div>
+            
+            <div class="levels-grid">
+                <div class="level-card">
+                    <div class="level-header">
+                        <h3>A1</h3>
+                        <div class="level-badge">Početnik</div>
+                    </div>
+                    <div class="level-content">
+                        <h4>Elementarna upotreba jezika</h4>
+                        <p>Kandidat razume i koristi svakodnevne izraze i osnovne fraze namenjene zadovoljavanju konkretnih potreba. Može da se predstavi i drugima, postavlja pitanja o ličnim informacijama i odgovara na takva pitanja. Može da komunicira na jednostavan način ako sagovornici govore sporo i jasno.</p>
+                    </div>
+                </div>
+                
+                <div class="level-card">
+                    <div class="level-header">
+                        <h3>A2</h3>
+                        <div class="level-badge">Osnovni</div>
+                    </div>
+                    <div class="level-content">
+                        <h4>Elementarna upotreba jezika</h4>
+                        <p>Kandidat razume rečenice i često korišćene izraze vezane za područja neposredne važnosti (npr. osnovne informacije o sebi i porodici, kupovini, lokalnoj geografiji, zaposlenju). Može da komunicira u jednostavnim, rutinskim situacijama koje zahtevaju jednostavnu i direktnu razmenu informacija.</p>
+                    </div>
+                </div>
+                
+                <div class="level-card">
+                    <div class="level-header">
+                        <h3>B1</h3>
+                        <div class="level-badge">Srednji</div>
+                    </div>
+                    <div class="level-content">
+                        <h4>Samostalna upotreba jezika</h4>
+                        <p>Kandidat razume glavne tačke jasnih standardnih inputa o poznatim stvarima koje se redovno susreću na poslu, u školi, na odmoru itd. Može da se snađe u većini situacija koje se mogu pojaviti tokom putovanja kroz područje gde se govori taj jezik.</p>
+                    </div>
+                </div>
+                
+                <div class="level-card">
+                    <div class="level-header">
+                        <h3>B2</h3>
+                        <div class="level-badge">Viši srednji</div>
+                    </div>
+                    <div class="level-content">
+                        <h4>Samostalna upotreba jezika</h4>
+                        <p>Kandidat razume glavne ideje složenog teksta o konkretnim i apstraktnim temama, uključujući i tehničke diskusije u svojoj oblasti stručnosti. Može da komunicira sa stepenom spontanosti i tečnosti koji omogućava redovnu interakciju sa izvornim govornicima bez naprezanja za bilo koju stranu.</p>
+                    </div>
+                </div>
+                
+                <div class="level-card">
+                    <div class="level-header">
+                        <h3>C1</h3>
+                        <div class="level-badge">Napredni</div>
+                    </div>
+                    <div class="level-content">
+                        <h4>Kompetentna upotreba jezika</h4>
+                        <p>Kandidat razume širok spektar zahtevnih, dužih tekstova i prepoznaje implicitno značenje. Može da se izražava tečno i spontano bez očiglednog traženja izraza. Može da koristi jezik fleksibilno i efektivno za društvene, akademske i profesionalne svrhe.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="o-nama" class="about">
+        <div class="container">
+            <div class="about-content">
+                <div class="about-text">
+                    <div class="section-badge">
+                        <i class="fas fa-info-circle"></i>
+                        O nama
+                    </div>
+                    <h2>Zašto izabrati našu školu?</h2>
+                    <p>Naša škola nemačkog jezika pruža profesionalne online kurseve sa iskusnim predavačima koji su posvećeni vašem uspehu. Kombinujemo tradicionalne metode sa modernim pristupom učenju.</p>
+                    
+                    <div class="features-list">
+                        <div class="feature-item">
+                            <i class="fas fa-users"></i>
+                            <span>Individualni pristup</span>
+                        </div>
+                        <div class="feature-item">
+                            <i class="fas fa-clock"></i>
+                            <span>Fleksibilno vreme</span>
+                        </div>
+                        <div class="feature-item">
+                            <i class="fas fa-clock"></i>
+                            <span>Radno vreme 9-21h</span>
+                        </div>
+                        <div class="feature-item">
+                            <i class="fas fa-laptop"></i>
+                            <span>Online materijali</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="about-image">
+                    <img src="images/german-class.jpg" alt="Nastava nemačkog jezika">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="kontakt" class="contact">
+        <div class="container">
+            <div class="section-header">
+                <div class="section-badge">
+                    <i class="fas fa-phone"></i>
+                    Kontakt
+                </div>
+                <h2>Kontaktirajte nas</h2>
+                <p>Stojimo vam na raspolaganju za sva pitanja</p>
+            </div>
+            
+            <div class="contact-grid">
+                <div class="contact-info">
+                    <div class="contact-item">
+                        <i class="fas fa-phone"></i>
+                        <div>
+                            <h4>Telefon</h4>
+                            <a href="tel:+381613144061">+381 61 314 4061</a>
+                        </div>
+                    </div>
+                    
+                    <div class="contact-item">
+                        <i class="fas fa-envelope"></i>
+                        <div>
+                            <h4>Email</h4>
+                            <a href="mailto:info@skolanemackog.online">info@skolanemackog.online</a>
+                        </div>
+                    </div>
+                    
+                                            <div class="contact-item">
+                            <i class="fas fa-clock"></i>
+                            <div>
+                                <h4>Radno vreme</h4>
+                                <p>Ponedeljak - Petak: 09:00 - 21:00</p>
+                            </div>
+                        </div>
+                    
+
+                </div>
+                
+                <div class="contact-form">
+                    <form id="contactForm">
+                        <div class="form-group">
+                            <label for="name">Ime i prezime</label>
+                            <input type="text" id="name" name="name" required>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="email">Email</label>
+                            <input type="email" id="email" name="email" required>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="phone">Telefon</label>
+                            <input type="tel" id="phone" name="phone" required>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="message">Poruka</label>
+                            <textarea id="message" name="message" rows="4" placeholder="Vaša poruka..."></textarea>
+                        </div>
+                        
+                        <button type="submit" class="btn btn-primary">
+                            <i class="fas fa-paper-plane"></i>
+                            Pošaljite poruku
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer" role="contentinfo">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>Škola Nemačkog Jezika</h3>
+                    <p>Profesionalni online kursevi nemačkog jezika A1-C1 sa individualnim pristupom i iskusnim predavačima.</p>
+                </div>
+                
+                <div class="footer-section">
+                    <h4>Kursevi</h4>
+                    <ul>
+                        <li><a href="#kursevi">Standardni kurs</a></li>
+                        <li><a href="#kursevi">Konverzacijski kurs</a></li>
+                        <li><a href="#kursevi">Individualni kurs</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-section">
+                    <h4>Nivoi</h4>
+                    <ul>
+                        <li><a href="#nivoi">A1 - Početnik</a></li>
+                        <li><a href="#nivoi">A2 - Osnovni</a></li>
+                        <li><a href="#nivoi">B1 - Srednji</a></li>
+                        <li><a href="#nivoi">B2 - Viši srednji</a></li>
+                        <li><a href="#nivoi">C1 - Napredni</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-section">
+                    <h4>Kontakt</h4>
+                    <p><i class="fas fa-phone"></i> <a href="tel:+381613144061" class="footer-contact-link">+381 61 314 4061</a></p>
+                    <p><i class="fas fa-envelope"></i> <a href="mailto:info@skolanemackog.online" class="footer-contact-link">info@skolanemackog.online</a></p>
+                </div>
+            </div>
+            
+            <div style="display:flex;gap:1.5rem;justify-content:center;margin-bottom:.5rem;font-size:.85rem"><a href="/privacy-policy.html" style="color:#9ca3af;text-decoration:none">Politika privatnosti</a><a href="/uslovi-koriscenja.html" style="color:#9ca3af;text-decoration:none">Uslovi korišćenja</a></div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Škola Nemačkog Jezika. Sva prava zadržana.</p>
+                <p>Dizajn i Razvoj: <a href="https://svilenkovic.com" target="_blank" style="color: #9ca3af; text-decoration: none;">D. Svilenković</a></p>
+            </div>
+        </div>
+    </footer>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'GA_MEASUREMENT_ID', {
+            'page_title': 'Škola Nemačkog Jezika',
+            'page_location': 'https://skolanemackog.online/',
+            'custom_map': {
+                'dimension1': 'language_level',
+                'dimension2': 'course_type'
+            }
+        });
+    </script>
+    
+
+    <script src="script.js"></script>
+<?php $cookie_privacy_url="/privacy-policy.html"; $cookie_accent_color="#007bff"; include "/home/shared_includes/cookie-consent.php"; ?>
+</body>
+</html> 

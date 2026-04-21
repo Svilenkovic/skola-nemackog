@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://skolanemackog.online/</loc>
+        <image:image>
+            <image:loc>https://skolanemackog.online/images/default-og.jpg</image:loc>
+            <image:title>Škola Nemačkog Jezika Beograd</image:title>
+            <image:caption>Profesionalni kursevi nemačkog jezika A1-C1 u Beogradu</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://skolanemackog.online/images/german-class.jpg</image:loc>
+            <image:title>Nastava nemačkog jezika</image:title>
+            <image:caption>Online nastava nemačkog jezika sa iskusnim predavačima</image:caption>
+        </image:image>
+    </url>
+</urlset>

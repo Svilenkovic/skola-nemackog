@@ -1,0 +1,32 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://skolanemackog.online/sitemap-index.xml
+
+# Disallow sensitive directories
+Disallow: /admin/
+Disallow: /private/
+Disallow: /vendor/
+Disallow: /process-form.php
+
+# Allow important resources
+Allow: /images/
+Allow: /css/
+Allow: /js/
+
+# Crawl delay for better server performance
+Crawl-delay: 1
+
+# Specific rules for major search engines
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 2 
