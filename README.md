@@ -1,52 +1,38 @@
 # Skola Nemackog
 
-German language school website with course booking — online A1-C1 courses
-
-## Sadrzaj
-
-- Pregled
-- Tehnologije
-- Pokretanje lokalno
-- Struktura projekta
-- Live Preview
-- Odrzavanje
+Produkcioni kod sajta za kurseve nemackog jezika (A1-C1), sa fokusom na pregled programa, nivoa i direktan upit kroz kontakt formu.
 
 ## Tehnologije
 
-- Nije automatski detektovano
+- PHP (entrypoint i obrada forme)
+- HTML/CSS/JavaScript
+- SEO fajlovi (`robots.txt`, `sitemap.xml`, `sitemap-index.xml`)
 
-## Pokretanje lokalno
+## Kljucne celine
+
+- `index.php`: glavna landing stranica
+- `process-form.php`: backend obrada kontakt/lead forme
+- `images/`: medijski fajlovi i SEO slike
+- `privacy-policy.html`, `uslovi-koriscenja.html`: pravne stranice
+
+## Lokalni razvoj
 
 ```bash
-# Nema standardnog package manager fajla u korenu repoa
-# Proveri postojece skripte i konfiguracione fajlove
+php -S 127.0.0.1:8080
 ```
 
-## Struktura projekta
-
-- `404.html`
-- `500.html`
-- `apple-touch-icon.png`
-- `browserconfig.xml`
-- `favicon-16x16.png`
-- `favicon-32x32.png`
-- `favicon.ico`
-- `googlee52fcd4c1384b5c8.html`
-- `.htaccess`
-- `images`
-- `index.html.disabled`
-- `index.php`
-- `maintenance.html`
-- `maintenance.php`
-- `manifest.json`
+Zatim otvori: `http://127.0.0.1:8080`.
 
 ## Live Preview
-- http://cyberpanel.net
-- https://cdnjs.cloudflare.com
-- https://community.cyberpanel.net
 
-## Odrzavanje
+- https://skolanemackog.online
 
-- Odrzavaj README azurnim kada menjas arhitekturu, build ili deploy proces.
-- Za produkcione promene vodi racuna o konfiguraciji okruzenja i bezbednosti tajnih podataka.
-- Pre merge-a proveri lint/test/build korake koji postoje u ovom projektu.
+## Deploy smernice
+
+- Deploy je file-based (PHP + staticki fajlovi).
+- Posle izmena proveri da su `sitemap*.xml` i `robots.txt` uskladjeni sa produkcionim URL-om.
+- Obrati paznju da test podaci za formu ne ostanu u kodu.
+
+## Napomena
+
+Repo je namenjen odrzavanju produkcione verzije i brzom rollout-u promena bez build koraka.
